@@ -13,10 +13,11 @@ Data originally from [this Kaggle dataset](https://www.kaggle.com/pearlveera/wee
   * Do something fancy
     * See: http://shinyapps.dreamrs.fr/shinyWidgets/
     * See: `plotly` package
+    * See: imagination
     * Look into other options besides our plain `fluidPage` for the UI
       * `navbarPage()`
       * `sidebarLayout()`
-    * See: imagination
+    * Look into putting all your input widgets into an `inputPanel()`
     * Show revenue by week instead of units
       * maybe give user option of what to plot
     * Deploy your app to be on the internet!!! 😱😱😱
